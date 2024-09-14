@@ -45,7 +45,7 @@ For any inquiries or contributions, feel free to reach out:
 
 We appreciate your interest in contributing to the SNK Hall Voice project! Hereâ€™s how you can help improve the system for managing student complaints and satisfaction feedback:
 
-# How to Contribute
+**How to Contribute:**
 
 1. **Fork the Repository**: First, fork the repository so that you can make changes in your own copy of the project without affecting the main project.
 
@@ -62,5 +62,5 @@ We appreciate your interest in contributing to the SNK Hall Voice project! Hereâ
 
 
 # About this README.md
-This README.md file provides a complete overview of the SNK Hall Voice project, detailing its features, tech stack, usage, contribution guidelines, and contact information. Please feel free to edit the contact information or adjust any other details to suit the project as it evolves.
+This `README.md`  file provides a complete overview of the SNK Hall Voice project, detailing its features, tech stack, usage, contribution guidelines, and contact information. Please feel free to edit the contact information or adjust any other details to suit the project as it evolves.
 
