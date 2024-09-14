@@ -64,3 +64,6 @@ We appreciate your interest in contributing to the SNK Hall Voice project! Hereâ
 # About this README.md
 This `README.md`  file provides a complete overview of the SNK Hall Voice project, detailing its features, tech stack, usage, contribution guidelines, and contact information. Please feel free to edit the contact information or adjust any other details to suit the project as it evolves.
 
+## Screenshots
+## Home Page
+[Login page screenshot](./client/public/image/s1.png)
