@@ -66,4 +66,4 @@ This `README.md`  file provides a complete overview of the SNK Hall Voice projec
 
 ## Screenshots
 ## Home Page
-[Login page screenshot](client/public/image/ss1.png)
+![Login page screenshot](client/public/image/ss1.png)
