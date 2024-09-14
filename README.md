@@ -33,6 +33,33 @@ The backend of this project is developed with the following technologies:
 - A graph is generated based on students' reviews.
 - Admins can post announcements that are visible to users.
 
+
+## Screenshots
+### User Home Page
+![Login page screenshot](client/public/image/ss1.jpg)
+### Our Goals
+![Our Goals screenshot](client/public/image/ss2.jpg)
+### User Profile
+![User Profile screenshot](client/public/image/ss3.jpg)
+### Complaint Box
+![Complaint Box screenshot](client/public/image/ss12.jpg)
+### Notice
+![Noticee screenshot](client/public/image/ss11.jpg)
+### Admin Home Page
+![Admin Home Page screenshot](client/public/image/ss4.jpg)
+### Announcement Box
+![Announcement Box screenshot](client/public/image/ss5.jpg)
+### Report Graph
+![Report Graph screenshot](client/public/image/ss6.jpg)
+### User Complaint
+![User Complaint screenshot](client/public/image/ss7.jpg)
+### Admin Profile
+![Admin Profile screenshot](client/public/image/ss8.jpg)
+### The Complaints
+![The Complaints screenshot](client/public/image/ss9.jpg)
+### User's Information
+![ User's Information screenshot](client/public/image/ss10.jpg)
+
 # Contact
 For any inquiries or contributions, feel free to reach out:
 - **GitHub**:
@@ -63,30 +90,4 @@ We appreciate your interest in contributing to the SNK Hall Voice project! Hereâ
 
 # About this README.md
 This `README.md`  file provides a complete overview of the SNK Hall Voice project, detailing its features, tech stack, usage, contribution guidelines, and contact information. Please feel free to edit the contact information or adjust any other details to suit the project as it evolves.
-
-## Screenshots
-### User Home Page
-![Login page screenshot](client/public/image/ss1.jpg)
-### Our Goals
-![Our Goals screenshot](client/public/image/ss2.jpg)
-### User Profile
-![User Profile screenshot](client/public/image/ss3.jpg)
-### Complaint Box
-![Complaint Box screenshot](client/public/image/ss12.jpg)
-### Notice
-![Noticee screenshot](client/public/image/ss11.jpg)
-### Admin Home Page
-![Admin Home Page screenshot](client/public/image/ss4.jpg)
-### Announcement Box
-![Announcement Box screenshot](client/public/image/ss5.jpg)
-### Report Graph
-![Report Graph screenshot](client/public/image/ss6.jpg)
-### User Complaint
-![User Complaint screenshot](client/public/image/ss7.jpg)
-### Admin Profile
-![Admin Profile screenshot](client/public/image/ss8.jpg)
-### The Complaints
-![The Complaints screenshot](client/public/image/ss9.jpg)
-### User's Information
-![ User's Information screenshot](client/public/image/ss10.jpg)
 
