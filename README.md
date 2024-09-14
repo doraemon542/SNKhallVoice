@@ -32,3 +32,35 @@ The backend of this project is developed with the following technologies:
 - Students can review whether they are satisfied with the resolution.
 - A graph is generated based on students' reviews.
 - Admins can post announcements that are visible to users.
+
+# Contact
+For any inquiries or contributions, feel free to reach out:
+- **GitHub**:
+- https://github.com/doraemon542
+- https://github.com/sidratul-muntaha-12
+- https://github.com/nazifaraisa44
+
+
+# Contributing to SNK Hall Voice: Hall Complaint Management for Student Satisfaction
+
+We appreciate your interest in contributing to the SNK Hall Voice project! Here’s how you can help improve the system for managing student complaints and satisfaction feedback:
+
+# How to Contribute
+
+1. **Fork the Repository**: First, fork the repository so that you can make changes in your own copy of the project without affecting the main project.
+
+2. **Create a New Branch**: Use `git checkout -b feature-branch` to create a new branch where you can work on your feature or improvement independently.
+
+3. **Implement Your Changes**: Make your changes on this branch, whether you're working on new features like complaint management, feedback mechanisms, or administrative tools. Ensure your changes adhere to the project’s code style and functionality standards. Be sure to test your changes thoroughly.
+
+4. **Commit Your Changes**: When your changes are ready, use `git commit -m 'Add some feature'` to commit them. Make sure your commits are clear and in logical steps.
+
+5. **Push to Your Branch**: Once your changes are committed, use `git push origin feature-branch` to upload your branch to your forked repository.
+
+6. **Open a Pull Request**: Finally, open a pull request from your feature branch to propose your changes for inclusion in the main project. Be sure to describe your changes and their purpose in detail.
+
+
+
+# About this README.md
+This README.md file provides a complete overview of the SNK Hall Voice project, detailing its features, tech stack, usage, contribution guidelines, and contact information. Please feel free to edit the contact information or adjust any other details to suit the project as it evolves.
+
