@@ -63,10 +63,9 @@ The backend of this project is developed with the following technologies:
 
 # Steps to be followed before running the project:
 ### Client: 
-[ User's Information screenshot]
-.(client/public/image/ClientNpmInstall.jpg)
+![ User's Information screenshot](client/public/image/ClientNpmInstall.jpg)
 
-Npm has to be installed and the dependency as shown in the screenshot will be visible.
+Npm has to be installed and the dependency as shown in the screenshot will be downloaded.
 
 # Contact
 For any inquiries or contributions, feel free to reach out:
