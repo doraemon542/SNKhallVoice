@@ -60,6 +60,14 @@ The backend of this project is developed with the following technologies:
 ### User's Information
 ![ User's Information screenshot](client/public/image/ss10.jpg)
 
+
+# Steps to be followed before running the project:
+### Client: 
+[ User's Information screenshot]
+.(client/public/image/ClientNpmInstall.jpg)
+
+Npm has to be installed and the dependency as shown in the screenshot will be visible.
+
 # Contact
 For any inquiries or contributions, feel free to reach out:
 - **GitHub**:
