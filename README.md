@@ -73,6 +73,10 @@ Npm has to be installed and the dependency as shown in the two screenshots given
 ![ User's Information screenshot](client/public/image/ServerRun.jpg)
 ### To run the frontend : 
 ![ User's Information screenshot](client/public/image/Frontendrun.jpg)
+
+To run the server and frontend, execute the server-side and client-side code, ensuring both components are configured to communicate with each other for seamless operation.
+
+
 # Contact
 For any inquiries or contributions, feel free to reach out:
 - **GitHub**:
